@@ -1,0 +1,1 @@
+{"data_dir": "./data", "output_dir": "./output", "embedding_path": "./embedding/hlbl-embeddings-scaled.EMBEDDING_SIZE=50.txt", "word_dim": 50, "model_name": null, "mode": 1, "seed": 5782, "cuda": 0, "epoch": 20, "dropout": 0.5, "batch_size": 128, "lr": 0.001, "max_len": 100, "pos_dis": 50, "pos_dim": 5, "hidden_size": 100, "filter_num": 200, "window": 3, "L2_decay": 1e-05}
